@@ -1,6 +1,9 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snghrsw&theme=blueberry)
 
-[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snghrsw&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snghrsw&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snghrsw&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snghrsw&theme=blueberry&utcOffset=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snghrsw&theme=onedark)](https://github-profile-trophy.vercel.app/?username=snghrsw&theme=tokyonight)
