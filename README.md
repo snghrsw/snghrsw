@@ -1,9 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snghrsw&theme=blueberry)
+![Hirashin's GitHub stats](https://github-readme-stats-two-kappa-33.vercel.app/api?username=snghrsw&show_icons=true&theme=github_dark_dimmed&count_private=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snghrsw&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snghrsw&theme=blueberry)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snghrsw&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snghrsw&theme=blueberry&utcOffset=8)
+[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/snghrsw/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snghrsw&theme=onedark)](https://github-profile-trophy.vercel.app/?username=snghrsw&theme=tokyonight)
